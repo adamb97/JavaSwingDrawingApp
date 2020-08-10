@@ -11,8 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Adam Benalayat
- * Class: CMIS 242
+ * 
  * Date: 7/28/2020
  * This program draws two types of shapes; ovals and rectangles, in any color fill
  * and any color outline. It also keeps track of how many shapes have been drawn
