@@ -8,7 +8,7 @@ import javax.swing.JPanel;
 /**
  *
  * @author Adam Benalayat
- * This file outlines the drawing component of the drawing program
+ * 
  */
 public class Drawing extends JPanel {
     private Shape currentShape = null;
